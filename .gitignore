@@ -1,3 +1,13 @@
+.vscode/
+app/**/*.js
+hooks/
+lib/
+node_modules/
+platforms/
+tmp/
+typings/
+
+
 # Built application files
 *.apk
 *.ap_
